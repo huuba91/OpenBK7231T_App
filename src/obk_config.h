@@ -74,6 +74,7 @@
 #define ENABLE_DRIVER_AHT2X						1
 #define ENABLE_DRIVER_SSDP						1
 #define ENABLE_DRIVER_SM16703P					1
+#define ENABLE_DRIVER_DDP					1
 #define ENABLE_DRIVER_PIXELANIM					1
 #define ENABLE_OBK_BERRY						1
 #define ENABLE_DRIVER_MDNS						1
